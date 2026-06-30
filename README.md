@@ -4,21 +4,22 @@ A simple ATM System built using Python.
 
 ## Features
 
-- ✅ Check Balance
-- ✅ Deposit Money
-- ✅ Withdraw Money
-- ✅ Exit
+* 🔐 PIN Authentication
+* ✅ Check Balance
+* ✅ Deposit Money
+* ✅ Withdraw Money
+* ✅ Exit
 
 ## Technologies Used
 
-- Python 3
+* Python 3
 
 ## How to Run
 
-1. Download or clone this repository.
-2. Open the project in Python.
-3. Run `atm.py`.
+1. Run `atm.py`
+2. Enter the ATM PIN
+3. Choose an option from the menu
 
-## Author
+## Version
 
-Nithin Jerom
+Current Version: 2.0
