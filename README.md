@@ -2,13 +2,15 @@
 
 A simple ATM System built using Python.
 
-## Features
+## 🚀 Version 3 Features
 
-* 🔐 PIN Authentication
-* ✅ Check Balance
-* ✅ Deposit Money
-* ✅ Withdraw Money
-* ✅ Exit
+- 🔐 PIN Login
+- 💰 Check Balance
+- ➕ Deposit Money
+- ➖ Withdraw Money
+- 🔑 Change PIN
+- 📜 Transaction History
+- 🚪 Exit Program
 
 ## Technologies Used
 
@@ -22,4 +24,4 @@ A simple ATM System built using Python.
 
 ## Version
 
-Current Version: 2.0
+Current Version: 3.0
